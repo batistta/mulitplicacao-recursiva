@@ -1,0 +1,7 @@
+C:\Users\assue\Desktop\COISAS FACUL\AED\multiplicacao recursiv\multiplicacao recursiv\obj\Debug\multiplicacao recursiv.csprojAssemblyReference.cache
+C:\Users\assue\Desktop\COISAS FACUL\AED\multiplicacao recursiv\multiplicacao recursiv\obj\Debug\multiplicacao recursiv.csproj.CoreCompileInputs.cache
+C:\Users\assue\Desktop\COISAS FACUL\AED\multiplicacao recursiv\multiplicacao recursiv\bin\Debug\multiplicacao recursiv.exe.config
+C:\Users\assue\Desktop\COISAS FACUL\AED\multiplicacao recursiv\multiplicacao recursiv\bin\Debug\multiplicacao recursiv.exe
+C:\Users\assue\Desktop\COISAS FACUL\AED\multiplicacao recursiv\multiplicacao recursiv\bin\Debug\multiplicacao recursiv.pdb
+C:\Users\assue\Desktop\COISAS FACUL\AED\multiplicacao recursiv\multiplicacao recursiv\obj\Debug\multiplicacao recursiv.exe
+C:\Users\assue\Desktop\COISAS FACUL\AED\multiplicacao recursiv\multiplicacao recursiv\obj\Debug\multiplicacao recursiv.pdb
